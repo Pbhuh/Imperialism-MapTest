@@ -1,0 +1,17 @@
+#1240 - Hilo
+
+owner = HWI
+controller = HWI
+add_core = HWI
+culture = hawaiian
+religion = tapu 
+capital = "Waiakea"
+trade_goods = ir_potatoes #taro, yams, and sweet potatoes #sugar eventually
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+discovered_by = oceanic 
+
+1555.1.1 = { discovered_by = SPA }

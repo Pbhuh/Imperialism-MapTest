@@ -1,0 +1,5 @@
+# Barents Sea
+
+
+
+discovered_by = eastern

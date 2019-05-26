@@ -1,0 +1,17 @@
+#New Beyond Typus Provinces
+owner = RNG
+controller = RNG
+add_core = RNG
+is_city = yes
+culture = maori_culture
+religion = tapu 
+capital = "Kawakawa"
+trade_goods = ir_marble
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 4
+
+
+discovered_by = oceanic
+1642.1.1 = { discovered_by = NED } # Abel Tasman

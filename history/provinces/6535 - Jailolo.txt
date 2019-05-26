@@ -1,0 +1,21 @@
+#4630 - Jailolo
+
+owner = JLO
+controller = JLO
+culture = halmahera
+religion = animism
+capital = "Jailolo"
+trade_goods = spices
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = JLO
+discovered_by = chinese
+discovered_by = indochinese
+discovered_by = malay_group
+
+
+1486.1.1 = { religion = sunni }
+1512.1.1 = { discovered_by = POR } # Francisco Serrão

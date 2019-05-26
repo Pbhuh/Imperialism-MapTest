@@ -1,0 +1,21 @@
+#1033 - Sakhalin
+
+owner = MYR
+controller = MYR
+add_core = MYR
+culture = ainu
+religion = animism
+capital = "Karafuto"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = chinese discovered_by = indochinese discovered_by = malay_group
+discovered_by = nomad_group
+
+
+1542.1.1 = { discovered_by = POR }
+1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
+1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse

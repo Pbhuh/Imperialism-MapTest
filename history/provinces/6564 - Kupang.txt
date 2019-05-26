@@ -1,0 +1,21 @@
+#Kupang
+
+culture = timoric
+religion = animism
+capital = "Kupang"
+hre = no
+trade_goods = unknown
+base_manpower = 3
+base_tax = 3 
+base_production = 3
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+
+
+discovered_by = chinese
+discovered_by = indochinese
+discovered_by = malay_group
+
+1642.11.24 = { discovered_by = NED } # Abel Tasman
+

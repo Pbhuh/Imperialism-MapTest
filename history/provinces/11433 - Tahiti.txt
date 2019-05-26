@@ -1,0 +1,20 @@
+
+owner = THT
+controller = THT
+add_core = THT
+is_city = yes
+culture = maohis
+religion = tapu 
+capital = "Papeete"
+trade_goods = ir_fruit
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+
+discovered_by = oceanic 
+center_of_trade = 2 
+extra_cost = 16
+1606.1.1 = { discovered_by = SPA } #Pedro Fernandes de Queiros
+1767.1.1 = { discovered_by = GBR} #Samuel Wallis
+

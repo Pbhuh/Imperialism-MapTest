@@ -1,0 +1,18 @@
+
+owner = TGA
+controller = TGA
+add_core = TGA # Looking for a Fijian tag here
+add_core = KDV
+is_city = yes
+culture = fijian 
+religion = tapu
+capital = "Vunisea"
+trade_goods = spices # Kava
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+discovered_by = oceanic 
+
+1792.1.1 = { discovered_by = GBR} # William Bligh

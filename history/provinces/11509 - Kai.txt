@@ -1,0 +1,27 @@
+owner = KAI
+add_core = KAI
+controller = KAI
+culture = kai
+religion = animism
+capital = "Alaku Malaki"
+trade_goods = gems #Pearls, could be spices too of course
+hre = no
+base_tax = 4  
+base_production = 3
+base_manpower = 3
+
+
+
+discovered_by = malay_group
+1512.1.1 = { discovered_by = POR }
+
+1658.1.1 = {
+	discovered_by = NED
+	owner = NED
+	controller = NED
+	culture = dutch
+	religion = reformed
+	is_city = yes
+	trade_goods = spices
+} # Dutch control
+1683.1.1 = { add_core = NED }

@@ -1,0 +1,22 @@
+
+owner = TGA
+controller = TGA
+add_core = TGA
+is_city = yes
+culture = tongic
+religion = tapu 
+capital = "Pangai"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+
+discovered_by = oceanic 
+
+1616.4.21 = {
+	discovered_by = NED	# Explorers Willem Schouten and Jacob Le Maire
+}
+1773.1.1 = {
+	discovered_by = GBR	# James Cook
+}

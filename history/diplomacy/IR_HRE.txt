@@ -1,0 +1,158 @@
+#HRE Diplomacy
+#Switzerland
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = BRN
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = URI
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = UTW
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = STH
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = APZ
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = NEU
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = ZND
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+vassal = {
+	subject_type = confederate
+	first = SWZ
+	second = LUZ
+	start_date = 1444.1.1
+	end_date = 1520.1.1
+}
+
+
+#Stettin and Kammin
+vassal = {
+	subject_type = fief
+	first = STT
+	second = KMI
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#German Bishoprics
+
+union = {
+	first = MUN
+	second = OSN
+	start_date = 1442.1.1
+	end_date = 1450.6.3
+}
+
+union = {
+	first = KOL
+	second = PDB
+	start_date = 1415.1.1
+	end_date = 1463.2.14
+}
+
+#Liege and Stavelot
+#Amyzonis guessing on dates
+vassal = {
+	subject_type = fief
+	first = LIE
+	second = STV
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+
+#Halberstadt
+
+union = {
+	first = MAG
+	second = HLB
+	start_date = 1480.1.1
+	end_date = 1566.1.1
+}
+
+union = {
+	first = LUN
+	second = HLB
+	start_date = 1566.1.1
+	end_date = 1628.1.1
+}
+
+#union = {
+#	first = LUN
+#	second = HLB
+#	start_date = 1582.1.1
+#	end_date = 1585.1.1
+#}
+
+#Hadeln
+
+vassal = {
+	subject_type = fief
+	first = HAM
+	second = HDL
+	start_date = 1407.1.1
+	end_date = 1481.1.1
+}
+
+#Sayn-Trier
+
+vassal = {
+	subject_type = fief
+	first = TRI
+	second = SAY
+	start_date = 1444.1.1
+	end_date = 1600.1.1
+}
+
+#Hessian Vassals
+
+vassal = {
+	subject_type = fief
+	first = HES
+	second = ZGH
+	start_date = 1444.1.1
+	end_date = 1600.1.1
+}
+
+vassal = {
+	subject_type = fief
+	first = HES
+	second = WLD
+	start_date = 1444.1.1
+	end_date = 1600.1.1
+}

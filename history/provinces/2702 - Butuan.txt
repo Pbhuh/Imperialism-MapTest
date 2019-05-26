@@ -1,0 +1,25 @@
+#2702 - Butuan
+
+culture = visayan
+religion = animism
+capital = "Butuan"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+discovered_by = chinese
+discovered_by = indochinese
+discovered_by = malay_group
+owner = BTU
+controller = BTU
+add_core = BTU
+
+1521.1.1 = { discovered_by = SPA }
+1606.3.31 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+}
